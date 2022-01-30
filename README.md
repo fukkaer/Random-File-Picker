@@ -9,6 +9,7 @@ Wanted to open random mp3 files. Based on a Stack Overflow Comment. Made in Jan.
 - Tested V.2.1 on 3 other computers that run windows, and don't have python installed. Program worked on both windows 10 machines, but not windows 7.
 - .
 - .
+- Note: File_crawler has a random function as well. 
 - .
 - How to use: start program, type in directory of choice when prompted. Example: "C:/Users/example/music" press Enter. press y, then enter. It will open a random file in the folder you chose, example: a random .mp3 file inside C:/Users/example/music.
 - Type n and press enter, to exit the program
